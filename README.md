@@ -5,7 +5,8 @@
 + 🥕 Закончила курс веб-разработки от Яндекс.Практикума
 + ☢️ Магистр по направлению "Ядерные физика и технологии"
 + 🧠 Люблю развиваться в новых направлениях
-+ 💌 innagosteva31@yandex.ru [Telegram](t.me/inesagosteva)
++ 😊 Хочу работать в дружном коллективе
+
 
 
 ## 💾 &nbsp;Мой стек:
@@ -18,4 +19,10 @@
   <img src="https://user-images.githubusercontent.com/98037850/226440023-5435c99a-0d03-4279-8e51-53215b7224a1.png" alt="logo-github" height=40/>
   <img src="https://user-images.githubusercontent.com/98037850/226437355-bdbf0c6e-b43a-4edd-9083-d852367a0507.png" alt="logo-nodejs" height=40/>
   <img src="https://user-images.githubusercontent.com/98037850/226436914-31d1e669-a9cf-4f59-834f-fb2b9744b98c.png" alt="logo-react" height=40/>
+</p>
+
+## Мои контакты:
+<p>
+  <a href="t.me/inesagosteva" target="_blank"><img src="https://user-images.githubusercontent.com/98037850/234673944-305e9332-dbc2-4f9b-8463-90244bf111bf.png" height=36></a>
+  <a href = "mailto: innagosteva31@yandex.ru"><img src="https://user-images.githubusercontent.com/98037850/234673785-4febb143-60c2-417e-bc41-0cb290dfb131.png" height=36></a>
 </p>
