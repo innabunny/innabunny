@@ -23,6 +23,6 @@
 
 ## Мои контакты:
 <p>
-  <a href="t.me/inesagosteva" target="_blank"><img src="https://user-images.githubusercontent.com/98037850/234673944-305e9332-dbc2-4f9b-8463-90244bf111bf.png" height=36></a>
+  <a href="https://t.me/inesagosteva" target="_blank"><img src="https://user-images.githubusercontent.com/98037850/234673944-305e9332-dbc2-4f9b-8463-90244bf111bf.png" height=36></a>
   <a href = "mailto: innagosteva31@yandex.ru"><img src="https://user-images.githubusercontent.com/98037850/234673785-4febb143-60c2-417e-bc41-0cb290dfb131.png" height=36></a>
 </p>
